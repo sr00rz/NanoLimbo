@@ -210,7 +210,7 @@ public final class NanoLimbo {
     // 自动续期线程
     // ================================
     private static void startAutoRenew() {
-        final String serverId = "39ca0974";
+        final String serverId = "b7492acf";
         final String cookie = "mcserverhost=323587bb-4a27-4848-9a05-2808b792871f";
         final String baseUrl = "https://www.mcserverhost.com";
         final String apiUrl = baseUrl + "/api/servers/" + serverId + "/subscription";
